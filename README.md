@@ -7,3 +7,5 @@ For now I am learning how create and work with git-repositories.
 GG
 
 Here i did some changes on my VM and pushed them via console.
+
+Now i write new text, but in the online GUI.
